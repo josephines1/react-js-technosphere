@@ -1,0 +1,84 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Software Development",
+      "desc": "Kembangkan aplikasi dan sistem yang dirancang untuk meningkatkan kinerja dan kemudahan operasional bisnis Anda.",
+      "icon": "ri-pages-line"
+    },
+    {
+      "id": 2,
+      "name": "Internet of Things (IoT)",
+      "desc": "Maksimalkan potensi perangkat terhubung untuk pengumpulan data real-time, pengendalian otomatis, dan analisis cerdas.",
+      "icon": "ri-cloud-line"
+    },
+    {
+      "id": 3,
+      "name": "Big Data & Analytics",
+      "desc": "Manfaatkan kekuatan data besar untuk membuat keputusan bisnis yang lebih baik dan lebih cepat.",
+      "icon": "ri-bubble-chart-fill"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Smanu",
+      "desc": "Sebuah sistem IoT untuk pabrik otomotif yang memungkinkan pemantauan kondisi mesin secara real-time. Dengan teknologi sensor dan data analytics, pabrik dapat mengidentifikasi potensi kerusakan sebelum terjadi, mengurangi downtime, dan meningkatkan efisiensi produksi.",
+      "img": "/react-js-technosphere/proyek/proyek-1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Healthcare Data Integration",
+      "desc": "Integrasi berbagai sistem informasi rumah sakit menjadi satu platform berbasis cloud. Solusi ini memungkinkan akses data pasien yang lebih cepat dan akurat, mendukung pengambilan keputusan medis yang lebih tepat dan meningkatkan pelayanan kesehatan.",
+      "img": "/react-js-technosphere/proyek/proyek-2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Smart City Traffic Management",
+      "desc": "Sebuah solusi manajemen lalu lintas berbasis IoT untuk kota besar, yang mengoptimalkan aliran lalu lintas secara otomatis melalui sensor dan analitik data. Hasilnya, kemacetan dapat diminimalisir dan kualitas udara lebih terjaga.",
+      "img": "/react-js-technosphere/proyek/proyek-3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Retail Analytics Platform",
+      "desc": "Sebuah platform analitik data untuk sektor retail yang mengumpulkan data transaksi dan perilaku konsumen dari berbagai saluran penjualan. Dengan wawasan ini, retailer dapat membuat strategi pemasaran yang lebih efektif dan meningkatkan pengalaman pelanggan.",
+      "img": "/react-js-technosphere/proyek/proyek-4.webp"
+    },
+    {
+      "id": 5,
+      "name": "Agritech IoT Monitoring System",
+      "desc": "Sebuah sistem pemantauan berbasis IoT untuk pertanian yang memungkinkan petani memantau kondisi tanah, cuaca, dan tanaman melalui aplikasi mobile. Ini membantu dalam pengambilan keputusan yang lebih baik untuk meningkatkan hasil pertanian dan efisiensi sumber daya.",
+      "img": "/react-js-technosphere/proyek/proyek-5.webp"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "WhatsApp",
+      "text": "(+62)812-3456-7890",
+      "href": "wa.me/#",
+      "icon": "ri-whatsapp-line"
+    },
+    {
+      "id": 2,
+      "name": "Instagram",
+      "text": "techno.sphere",
+      "href": "#",
+      "icon": "ri-instagram-fill"
+    },
+    {
+      "id": 3,
+      "name": "Youtube",
+      "text": "TechnoSphere Solution",
+      "href": "#",
+      "icon": "ri-youtube-line"
+    },
+    {
+      "id": 4,
+      "name": "LinkedIn",
+      "text": "TechnoSphere Solution",
+      "href": "#",
+      "icon": "ri-linkedin-box-fill"
+    }
+  ]
+}
