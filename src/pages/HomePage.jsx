@@ -1,5 +1,5 @@
-import HeroImage from "../assets/hero.svg";
-import AboutImage from "../assets/about.svg";
+import HeroImage from "../../public/hero.svg";
+import AboutImage from "../../public/about.svg";
 import HomeHero from "../sections/HomeHero";
 import HomeAbout from "../sections/HomeAbout";
 import HomeServices from "../sections/HomeServices";
