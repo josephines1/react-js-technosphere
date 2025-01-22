@@ -7,7 +7,7 @@ export default function HomeContact() {
 
   useEffect(() => {
     if (loaded.current === false) {
-      fetch("/json/data.json")
+      fetch("/react-js-technosphere/json/data.json")
         .then((response) => response.json())
         .then((data) => setContacts(data["contacts"]))
         .then(() => (loaded.current = true));

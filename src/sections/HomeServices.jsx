@@ -7,7 +7,7 @@ function HomeServices() {
 
   useEffect(() => {
     if (loaded.current === false) {
-      fetch("/json/data.json")
+      fetch("/react-js-technosphere/json/data.json")
         .then((response) => response.json())
         .then((data) => setServices(data["services"]))
         .then(() => (loaded.current = true));

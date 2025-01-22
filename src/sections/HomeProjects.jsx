@@ -7,7 +7,7 @@ export default function HomeProjects() {
 
   useEffect(() => {
     if (loaded.current === false) {
-      fetch("/json/data.json")
+      fetch("/react-js-technosphere/json/data.json")
         .then((response) => response.json())
         .then((data) => setProjects(data["projects"]))
         .then(() => (loaded.current = true));
